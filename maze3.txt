@@ -1,0 +1,21 @@
+20 20 4
+W W S W W W U U U W W W W W W W U U E W
+ W E U E W U U U U W W U U U W U U U U W
+W U W U U W W U U U W U W U U W W U U W
+ W U W U W W U U W U W U W U W W U U W W
+W U W U U U U W U W U U W U U U U W U W
+ W U W U W W U W U W W U W U W W U W U W
+W U W U W W W U W W W U W U W W W U W W
+ W U W U U W U U W W W U W U U W U U W W
+W U W W U U U W U W W U W W U U U W U W
+ W U U U W U U U U W W U U U W U U U U W
+W W U W W W U U U W W W U W W W U U U W
+ W U U U W U U U U W W U U U W U U U U W
+W U W U U W W U U W W U W U U W W U U W
+ W U W U W W U U W W W U W U W W U U W W
+W U W U U U U W U W W U W U E U U W U W
+ W U W U W W U W U W W U W U W W U W U W
+W U W U W W W U W W W U U U W W W U W W
+ W U W U U W U U W W W U W U U W U U W W
+W U U W U U U W U W W U W W U U U W U W
+ W U U U W U U U U W W U U U W U U U U W

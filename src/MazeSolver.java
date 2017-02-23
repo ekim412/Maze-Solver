@@ -6,7 +6,7 @@
  * This MazeSolver class will start at the start tile and search for
  * the exit(s) of the maze using a stack to keep track of tiles yet to be checked.
  * 
- * @author Taebum Edward Kim 
+ * @author Edward Kim 
  * 
  */
 
